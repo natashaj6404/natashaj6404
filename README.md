@@ -28,8 +28,10 @@
 # ![pixel-cat](https://github.com/user-attachments/assets/4e21acdd-41da-485e-b793-69be64f36ce7) 
 # Contact Me ──★ ˙🍓 ̟!!                           
 You can get in touch with me here:
--📧 Email: natashajamshed2004@gmail.com
--💼 [LinkedIn](https://www.linkedin.com/in/natashajamshed/)
+
+📧 Email: natashajamshed2004@gmail.com
+
+💼 [LinkedIn](https://www.linkedin.com/in/natashajamshed/)
 
 # This GitHub is a work in progress! ˋ°•*⁀➷
 As I continue my academic journey, I’ll be updating this space with more scripts, analysis reports, and personal projects. Stay tuned!
