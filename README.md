@@ -1,5 +1,5 @@
 # Hey, my name is Natasha, and welcome to my GitHub! -`♡´-
-![summer colors GIF](https://github.com/user-attachments/assets/654ae065-f3a1-450c-b2f9-de063dbdac74) 
+<img src="https://github.com/user-attachments/assets/654ae065-f3a1-450c-b2f9-de063dbdac74" alt="summer colors GIF" width="600" height="300">
 
 # Technical Skills ᯓ★
 **🔐 Cybersecurity & Networking**
