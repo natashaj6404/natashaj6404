@@ -1,5 +1,5 @@
 # Hey, my name is Natasha, and welcome to my GitHub! -`♡´-
-![summer colors GIF](https://github.com/user-attachments/assets/654ae065-f3a1-450c-b2f9-de063dbdac74)
+![summer colors GIF](https://github.com/user-attachments/assets/654ae065-f3a1-450c-b2f9-de063dbdac74) ![summer colors GIF](https://github.com/user-attachments/assets/4c789536-404e-46da-a0bf-4e6ad454a526)
 
 # Technical Skills ᯓ★
 **🔐 Cybersecurity & Networking**
@@ -25,10 +25,7 @@
 -Active Directory, Group Policy, Windows Event Viewer
 -Burp Suite (basic), TryHackMe (ongoing learning)
 
-# Contact Me ──★ ˙🍓 ̟!!
-<p align="right">
-  <img src="https://github.com/user-attachments/assets/07806178-7ed6-4605-b230-1acb66534577" width="50" alt="pixel-cat">
-</p>                                             
+# Contact Me ──★ ˙🍓 ̟!!   ![pixel-cat](https://github.com/user-attachments/assets/4e21acdd-41da-485e-b793-69be64f36ce7)                         
 You can get in touch with me here:
 -📧 Email: natashajamshed2004@gmail.com
 -💼 [LinkedIn](https://www.linkedin.com/in/natashajamshed/)
