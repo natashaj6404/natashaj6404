@@ -25,7 +25,8 @@
 -Active Directory, Group Policy, Windows Event Viewer
 -Burp Suite (basic), TryHackMe (ongoing learning)
 
-# Contact Me ──★ ˙🍓 ̟!!   ![pixel-cat](https://github.com/user-attachments/assets/4e21acdd-41da-485e-b793-69be64f36ce7)                         
+# ![pixel-cat](https://github.com/user-attachments/assets/4e21acdd-41da-485e-b793-69be64f36ce7) 
+# Contact Me ──★ ˙🍓 ̟!!                           
 You can get in touch with me here:
 -📧 Email: natashajamshed2004@gmail.com
 -💼 [LinkedIn](https://www.linkedin.com/in/natashajamshed/)
